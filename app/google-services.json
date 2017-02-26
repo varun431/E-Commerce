@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "634487953716",
+    "firebase_url": "https://cycloid-391ab.firebaseio.com",
+    "project_id": "cycloid-391ab",
+    "storage_bucket": "cycloid-391ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634487953716:android:07a9944cb895746b",
+        "android_client_info": {
+          "package_name": "com.example.varun.cyclemanufacturer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634487953716-2vd2l8r1rlpvuo0r490jpfig534s9h32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.varun.cyclemanufacturer",
+            "certificate_hash": "9EA74CA757BA775F3BD5CA045A1EDFED2F6BDE91"
+          }
+        },
+        {
+          "client_id": "634487953716-j2fol2migiqlu3fgt542s2j0ae2mo8gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6vmY77s8xshWbSVzx_jh_Y9B_0iiVO54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634487953716-j2fol2migiqlu3fgt542s2j0ae2mo8gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
